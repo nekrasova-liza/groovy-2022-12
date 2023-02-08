@@ -1,0 +1,7 @@
+/groovy-2022-12/.idea/
+groovy-2022-12/**/.idea
+groovy-2022-12/build/
+groovy-2022-12/**/build/
+groovy-2022-12/*.iml
+groovy-2022-12/**.*.iml
+groovy-2022-12/.gradle
